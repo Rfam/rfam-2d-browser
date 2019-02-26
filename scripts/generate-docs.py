@@ -27,7 +27,7 @@ html_footer = """
 html_index = """
 <div class="row">
     <div class="col-md-12">
-        <h1><a href="http://rfam.org">Rfam</a> {rna_type} secondary structures generated using <a href="https://eddylab.org/R-scape">R-scape</a></h1>
+        <h1><a href="http://rfam.org">Rfam</a> {rna_type} secondary structures generated using <a href="http://eddylab.org/R-scape">R-scape</a></h1>
 
         <h2>Browse by RNA type</h2>
         <ul>

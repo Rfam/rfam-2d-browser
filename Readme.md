@@ -1,9 +1,13 @@
 # Rfam Secondary Structure Browser
 
-View Rfam secondary structures by RNA type.
+Browse [Rfam](http://rfam.org) secondary structures by RNA type: https://rfam.github.io/rfam-2d-browser/
 
-## Usage
+For example, here are all [riboswitch](https://rfam.github.io/rfam-2d-browser/riboswitch.html) secondary structures.
+
+All images were generated using [R-scape](http://eddylab.org/R-scape/).
+
+## Updating html files
 
 1. Install python requirements: `pip install -r requirements.txt`
 
-2. Update the html files, run `python scripts/generate-docs.py`.
+2. Run `python scripts/generate-docs.py`.
